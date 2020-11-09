@@ -1,3 +1,6 @@
+#ifdef TONE_VERIFIED
+#undef TONE_VERIFIED
+#endif
 #ifdef NOTE_B0
 #undef NOTE_B0
 #endif
