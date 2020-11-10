@@ -1,5 +1,6 @@
 Arduino Tone Pitch
 ==================
+[![version](https://img.shields.io/github/v/release/rodrigodornelles/arduino-tone-pitch?sort=semver)](https://github.com/RodrigoDornelles/arduino-tone-pitch/releases) [![size](https://img.shields.io/badge/repo%20size-327%20MB-blue)](https://github.com/RodrigoDornelles/arduino-tone-pitch/archive/master.zip) [![license](https://img.shields.io/github/license/rodrigodornelles/arduino-tone-pitch)](https://github.com/RodrigoDornelles/arduino-tone-pitch/blob/master/LICENSE.txt) [![quality](https://app.codacy.com/project/badge/Grade/18b3e3b7c2294e82b2a2e976a5b50d2c)](https://www.codacy.com/gh/RodrigoDornelles/arduino-tone-pitch/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RodrigoDornelles/arduino-tone-pitch&amp;utm_campaign=Badge_Grade)
 
 ## How to Use ##
 
