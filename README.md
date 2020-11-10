@@ -1,6 +1,24 @@
 Arduino Tone Pitch
 ==================
 
+## How to Use ##
+
+### Simple Bip ###
+```C
+#include <Arduino.h>
+#include <Tone440.h>
+
+void setup(){}
+
+void loop()
+{
+  tone(8, NOTE_C4, 500);
+  delay(1000);
+}
+```
+
+
+## Tuning frequency list ##
 | Note | Frequency<br/>_432 Hz_ | Frequency<br/>_434 Hz_ | Frequency<br/>_436 Hz_ | Frequency<br/>_438 Hz_ | Frequency<br/>_440 Hz_ | Frequency<br/>_442 Hz_ | Frequency<br/>_444 Hz_ | Frequency<br/>_446 Hz_ |
 | - | - | - | - | - | - | - | - | - |
 | `C0` | 16.05 | 16.13 | 16.20 | 16.28 | 16.35 | 16.43 | 16.50 | 16.57 |
