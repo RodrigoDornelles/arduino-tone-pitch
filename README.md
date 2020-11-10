@@ -5,6 +5,8 @@ Arduino Tone Pitch
 
 ### Simple Bip ###
 ```C
+#define TONE_USE_INT
+
 #include <Arduino.h>
 #include <Tone440.h>
 
