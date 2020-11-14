@@ -9,7 +9,7 @@ Arduino Tone Pitch
 #define TONE_USE_INT
 
 #include <Arduino.h>
-#include <Tone440.h>
+#include <Pitch/Tone440.h>
 
 void setup(){}
 
