@@ -19,3 +19,25 @@
  */ 
 #error please choose your tone header.
 #endif
+
+#ifndef TONE_USE_INT
+#ifndef TONE_USE_REAL
+#ifndef TONE_USE_FLOAT
+#ifndef TONE_USE_DOUBLE
+#ifndef TONE_USE_PRECISE
+/**
+ * when you do not define TONE_USE_INT this library identifies it as accurate,
+ * so it is recommended to make it explicit in some way to make it better understandable
+ * 
+ * @example TONE_USE_REAL
+ * @example TONE_USE_FLOAT
+ * @example TONE_USE_DOUBLE
+ * @example TONE_USE_PRECISE
+ * 
+ */
+#warning if you use fine tuning, it is recommended to use constant explicit TONE_USE_DOUBLE or similar
+#endif
+#endif
+#endif
+#endif
+#endif
