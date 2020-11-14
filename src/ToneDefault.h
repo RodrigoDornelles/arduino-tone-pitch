@@ -108,5 +108,5 @@
 #define NOTE_G8   (0)
 #define NOTE_GS8  (0)
 #define NOTE_A8   (0)
-#define NOTE_AS7  (0)
+#define NOTE_AS8  (0)
 #define NOTE_B8   (0)
