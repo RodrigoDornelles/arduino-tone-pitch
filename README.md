@@ -133,3 +133,7 @@ void loop()
 | `A8` | 6912.00 | 6944.00 | 6976.00 | 7008.00 | 7040.00 | 7072.00 | 7104.00 | 7136.00 |
 | `A#8` `Bb8`  | 7323.01 | 7356.91 | 7390.81 | 7424.72 | 7458.62 | 7492.52 | 7526.43 | 7560.33 |
 | `B8` |  7758.46 | 7794.38 | 7830.30 | 7866.21 | 7902.13 | 7938.05 | 7973.97 | 8009.89 |
+
+-----
+
+[![wtfpl-license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png) This software is free and works under no warranty, it is licensed under WTFPL 2.0.](http://www.wtfpl.net/faq/)
