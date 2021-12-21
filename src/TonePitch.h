@@ -9,43 +9,43 @@
  * 
  * @example
  * #define TONE_PITCH_DEFAULT
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  * @example
  * #define TONE_PITCH 432
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  * @example
  * #define TONE_PITCH 434
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  * @example
  * #define TONE_PITCH 436
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  * @example
  * #define TONE_PITCH 438
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  * @example
  * #define TONE_PITCH 440
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  * @example
  * #define TONE_PITCH 442
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  * @example
  * #define TONE_PITCH 444
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  * @example
  * #define TONE_PITCH 446
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  * @example
  * #define TONE_PITCH DEFAULT
- * #include <Pitch.h> 
+ * #include <TonePitch.h> 
  * 
  */ 
 #error please choose your tune setting.

@@ -42,7 +42,7 @@
  * this makes it compatible with any library or third-party code previously worked on.
  *
  */
-#include <Pitch.h>
+#include <TonePitch.h>
 
 void setup(){}
 

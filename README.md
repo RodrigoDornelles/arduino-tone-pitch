@@ -11,7 +11,7 @@ this library is very important for those who prefer to have the buzzer tuned cor
 
 #define TONE_USE_INT
 #define TONE_PITCH 440
-#include <Pitch.h>
+#include <TonePitch.h>
 
 void setup(){}
 
